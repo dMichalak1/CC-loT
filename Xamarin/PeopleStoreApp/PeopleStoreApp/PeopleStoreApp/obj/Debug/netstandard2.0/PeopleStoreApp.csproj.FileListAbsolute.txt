@@ -1,0 +1,17 @@
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\bin\Debug\netstandard2.0\PeopleStoreApp.deps.json
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\bin\Debug\netstandard2.0\PeopleStoreApp.dll
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\bin\Debug\netstandard2.0\ref\PeopleStoreApp.dll
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\bin\Debug\netstandard2.0\PeopleStoreApp.pdb
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\PeopleStoreApp.csprojAssemblyReference.cache
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\PeopleStoreApp.AssemblyInfoInputs.cache
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\PeopleStoreApp.AssemblyInfo.cs
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\PeopleStoreApp.csproj.CoreCompileInputs.cache
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\PeopleStoreApp.dll
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\ref\PeopleStoreApp.dll
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\PeopleStoreApp.pdb
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\bin\Debug\netstandard2.0\PeopleStoreApp.DataContracts.dll
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\bin\Debug\netstandard2.0\PeopleStoreApp.DataContracts.pdb
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\PeopleStoreApp.csproj.CopyComplete

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/DRcJ0AMT8IbU97TmcYJN3TDLKFMCQsGO/Xy6CF5WkHadguIeecBedCxQrZBapd+kjCoquBEWipl/GBjPv2uhA==",
+  "success": true,
+  "projectFilePath": "D:\\Xamarin\\PeopleStoreApp\\PeopleStoreApp.Web\\PeopleStoreApp.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmich\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\dmich\\.nuget\\packages\\restease\\1.5.4\\restease.1.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

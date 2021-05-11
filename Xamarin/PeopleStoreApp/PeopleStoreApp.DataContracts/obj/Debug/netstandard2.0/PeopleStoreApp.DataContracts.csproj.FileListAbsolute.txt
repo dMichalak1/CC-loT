@@ -1,0 +1,9 @@
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp.DataContracts\bin\Debug\netstandard2.0\PeopleStoreApp.DataContracts.deps.json
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp.DataContracts\bin\Debug\netstandard2.0\PeopleStoreApp.DataContracts.dll
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp.DataContracts\bin\Debug\netstandard2.0\PeopleStoreApp.DataContracts.pdb
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp.DataContracts\obj\Debug\netstandard2.0\PeopleStoreApp.DataContracts.csprojAssemblyReference.cache
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp.DataContracts\obj\Debug\netstandard2.0\PeopleStoreApp.DataContracts.AssemblyInfoInputs.cache
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp.DataContracts\obj\Debug\netstandard2.0\PeopleStoreApp.DataContracts.AssemblyInfo.cs
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp.DataContracts\obj\Debug\netstandard2.0\PeopleStoreApp.DataContracts.csproj.CoreCompileInputs.cache
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp.DataContracts\obj\Debug\netstandard2.0\PeopleStoreApp.DataContracts.dll
+D:\Xamarin\PeopleStoreApp\PeopleStoreApp.DataContracts\obj\Debug\netstandard2.0\PeopleStoreApp.DataContracts.pdb
