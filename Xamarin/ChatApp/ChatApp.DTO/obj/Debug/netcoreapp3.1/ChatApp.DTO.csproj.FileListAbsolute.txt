@@ -1,0 +1,9 @@
+D:\Xamarin\ChatApp\ChatApp.DTO\bin\Debug\netcoreapp3.1\ChatApp.DTO.deps.json
+D:\Xamarin\ChatApp\ChatApp.DTO\bin\Debug\netcoreapp3.1\ChatApp.DTO.dll
+D:\Xamarin\ChatApp\ChatApp.DTO\bin\Debug\netcoreapp3.1\ChatApp.DTO.pdb
+D:\Xamarin\ChatApp\ChatApp.DTO\obj\Debug\netcoreapp3.1\ChatApp.DTO.csprojAssemblyReference.cache
+D:\Xamarin\ChatApp\ChatApp.DTO\obj\Debug\netcoreapp3.1\ChatApp.DTO.AssemblyInfoInputs.cache
+D:\Xamarin\ChatApp\ChatApp.DTO\obj\Debug\netcoreapp3.1\ChatApp.DTO.AssemblyInfo.cs
+D:\Xamarin\ChatApp\ChatApp.DTO\obj\Debug\netcoreapp3.1\ChatApp.DTO.csproj.CoreCompileInputs.cache
+D:\Xamarin\ChatApp\ChatApp.DTO\obj\Debug\netcoreapp3.1\ChatApp.DTO.dll
+D:\Xamarin\ChatApp\ChatApp.DTO\obj\Debug\netcoreapp3.1\ChatApp.DTO.pdb
