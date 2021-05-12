@@ -1,0 +1,16 @@
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\bin\Debug\netstandard2.0\SimpleNavigationApp.deps.json
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\bin\Debug\netstandard2.0\SimpleNavigationApp.dll
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\bin\Debug\netstandard2.0\ref\SimpleNavigationApp.dll
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\bin\Debug\netstandard2.0\SimpleNavigationApp.pdb
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\obj\Debug\netstandard2.0\SimpleNavigationApp.csprojAssemblyReference.cache
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\obj\Debug\netstandard2.0\SimpleNavigationApp.AssemblyInfoInputs.cache
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\obj\Debug\netstandard2.0\SimpleNavigationApp.AssemblyInfo.cs
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\obj\Debug\netstandard2.0\SimpleNavigationApp.csproj.CoreCompileInputs.cache
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\obj\Debug\netstandard2.0\SimpleNavigationApp.dll
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\obj\Debug\netstandard2.0\ref\SimpleNavigationApp.dll
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\obj\Debug\netstandard2.0\SimpleNavigationApp.pdb
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\obj\Debug\netstandard2.0\Pages\AboutUsPage.xaml.g.cs
+D:\Xamarin\SimpleNavigationApp\SimpleNavigationApp\SimpleNavigationApp\obj\Debug\netstandard2.0\Pages\ContactPage.xaml.g.cs
